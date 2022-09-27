@@ -1,0 +1,24 @@
+{
+  "login": [
+    {
+      "user": "shirisha",
+      "password": "ayilreddy@97"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Secundrabad",
+      "rating": "4.5",
+      "email": "mcdonal@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Rayaseema Ruchulu",
+      "address": "Madapur",
+      "rating": "4.5",
+      "email": "rayaseemaruchulu@test.com"
+    }
+  ]
+}

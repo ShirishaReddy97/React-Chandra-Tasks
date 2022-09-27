@@ -1,0 +1,14 @@
+{
+    "employees":[
+        {
+            "firstname":"shirisha",
+            "lastname":"reddy",
+            "email":"shirishareddy546@gmail.com"
+        },
+        {
+            "firstname":"manisha",
+            "lastname":"reddy",
+            "email":"manishareddy481@gmail.com"
+        }
+    ]
+}

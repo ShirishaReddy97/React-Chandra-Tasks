@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "name": "Pizza Hut",
+      "email": "Pizzahut@test.com",
+      "rating": 4.2,
+      "id": 1
+    },
+    {
+      "name": "Subway",
+      "email": "Subway@test.com",
+      "rating": 4.8,
+      "id": 2
+    },
+    {
+      "name": "Domino's",
+      "email": "Dominos@test.com",
+      "rating": 3.9,
+      "id": 3
+    },
+    {
+      "name": "Kfc",
+      "email": "kfc@test.com",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "name": "McDonald's",
+      "email": "Mc@test.com",
+      "address": "Lingampalli",
+      "rating": "3.7",
+      "id": 5
+    }
+  ]
+}
